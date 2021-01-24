@@ -49,7 +49,7 @@ A partial Node.js implementation is available in the `node` branch, developed by
 
 ## Donate
 [![Donate with Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fdossena/donate)  
-[Donate with PayPal](https://www.paypal.me/sineisochronic)  
+[Donate with PayPal](https://www.paypal.me/elhaddajiotmane)  
 
 ## License
 Copyright (C) 2016-2020 Federico Dossena
